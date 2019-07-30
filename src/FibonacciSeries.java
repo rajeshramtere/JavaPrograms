@@ -7,7 +7,7 @@ public class FibonacciSeries {
 		int number2 = 1;
 		int sum = 0;
 		
-		int iterationVariable = 15;
+		int iterationVariable = 5;
 		
 		for(int i=0; i<iterationVariable; i++)
 		{
